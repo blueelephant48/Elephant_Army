@@ -1,9 +1,9 @@
 title: Nighthawk Pages 
 description: "Class of 2028"
-owner_name: John Mortensen
-github_username: nighthawkcoders
+owner_name: Amalyn, Anishka, Elise, Harsha
+github_username: blueelephant48
 github_repo: "Elephant_Army" 
-baseurl: "/Elephant_army"
+baseurl: "/Elephant_Army"
 future: true
 remote_theme: jekyll/minima
 minima:
